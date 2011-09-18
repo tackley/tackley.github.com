@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+      <Placemark>
+            <name>Snowy cities don't come more magical than Tallinn in Estonia</name>
+            <description>
+              &lt;p&gt;Snowy cities don't come more magical than Tallinn in Estonia, where winding cobbled streets are full of fur-clad shoppers and cosy cafes&lt;/p&gt;&lt;p&gt;See the whole article on &lt;a href=&quot;http://www.guardian.co.uk/travel/2008/nov/01/tallinn-estonia&quot;&gt;the Guardian&lt;/a&gt;&lt;/p&gt;
+            </description>
+            <Point>
+              <coordinates>59.43886,24.75447,0</coordinates>
+            </Point>
+          </Placemark><Placemark>
+            <name>Oz Clarke helps Nell Card stock up at organic food shops and breweries near Calais</name>
+            <description>
+              &lt;p&gt;With a little help from wine guru Oz Clarke, &lt;strong&gt;Nell Card &lt;/strong&gt;steers clear of Calais' hypermarkets,  and stocks up at organic farms, breweries and specialist shops&lt;/p&gt;&lt;p&gt;See the whole article on &lt;a href=&quot;http://www.guardian.co.uk/travel/2008/nov/01/calais-organic-food-wine&quot;&gt;the Guardian&lt;/a&gt;&lt;/p&gt;
+            </description>
+            <Point>
+              <coordinates>50.46432,1.76306,0</coordinates>
+            </Point>
+          </Placemark><Placemark>
+            <name>Kevin Gould enjoys a festive tipple at Vienna's traditional wine taverns</name>
+            <description>
+              &lt;p&gt;Forget the cafes, the best place for a festive tipple — or three — is one of Vienna's traditional wine taverns&lt;/p&gt;&lt;p&gt;See the whole article on &lt;a href=&quot;http://www.guardian.co.uk/travel/2008/nov/01/vienna-austria-wine-taverns&quot;&gt;the Guardian&lt;/a&gt;&lt;/p&gt;
+            </description>
+            <Point>
+              <coordinates>48.19941,16.37586,0</coordinates>
+            </Point>
+          </Placemark><Placemark>
+            <name>Flying visit: Bruges</name>
+            <description>
+              &lt;p&gt;Go now to catch the Snow &amp;amp; Ice Sculpture Festival and the city's Christmas markets&lt;/p&gt;&lt;p&gt;See the whole article on &lt;a href=&quot;http://www.guardian.co.uk/travel/2008/nov/01/bruges-belgium-shortbreaks&quot;&gt;the Guardian&lt;/a&gt;&lt;/p&gt;
+            </description>
+            <Point>
+              <coordinates>51.20941,3.22523,0</coordinates>
+            </Point>
+          </Placemark><Placemark>
+            <name>Tinto House, Hay-on-Wye</name>
+            <description>
+              &lt;p&gt;Sociable owners, elegant breakfast room and a garden resplendent with autumn blooms all add to the charm of this 18th-century townhouse&lt;/p&gt;&lt;p&gt;See the whole article on &lt;a href=&quot;http://www.guardian.co.uk/travel/2008/nov/01/hay-on-wye-hotels-tinto&quot;&gt;the Guardian&lt;/a&gt;&lt;/p&gt;
+            </description>
+            <Point>
+              <coordinates>52.07523,-3.12621,0</coordinates>
+            </Point>
+          </Placemark><Placemark>
+            <name>Isabel Choat goes dog-sledding in Finland</name>
+            <description>
+              &lt;p&gt;Dog-sledding through the Finnish wilderness is the perfect festive adventure, says &lt;strong&gt;Isabel Choat&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;See the whole article on &lt;a href=&quot;http://www.guardian.co.uk/travel/2008/nov/01/dog-sledding-finland-adventure&quot;&gt;the Guardian&lt;/a&gt;&lt;/p&gt;
+            </description>
+            <Point>
+              <coordinates>65.96839,29.17065,0</coordinates>
+            </Point>
+          </Placemark><Placemark>
+            <name>Brooklands, the birthplace of British motorsport</name>
+            <description>
+              &lt;p&gt;It was the world's first purpose-built motor racing track. Now Brooklands in Surrey is once again attracting car-lovers to its circuit and museum&lt;/p&gt;&lt;p&gt;See the whole article on &lt;a href=&quot;http://www.guardian.co.uk/travel/2008/nov/03/uk-motorsports-brooklands-driving&quot;&gt;the Guardian&lt;/a&gt;&lt;/p&gt;
+            </description>
+            <Point>
+              <coordinates>51.34729,-0.46404,0</coordinates>
+            </Point>
+          </Placemark><Placemark>
+            <name>Been there ... readers' guide to New York</name>
+            <description>
+              &lt;p&gt;Your tips on how to get the most out of the Big Apple - from where to stay to what to see and do&lt;/p&gt;&lt;p&gt;See the whole article on &lt;a href=&quot;http://www.guardian.co.uk/travel/2008/nov/06/new-york-readers-guide&quot;&gt;the Guardian&lt;/a&gt;&lt;/p&gt;
+            </description>
+            <Point>
+              <coordinates>40.75605,-73.98695,0</coordinates>
+            </Point>
+          </Placemark><Placemark>
+            <name>Where the waiters eat in New York City</name>
+            <description>
+              &lt;p&gt;Who better than a waiter find the best-value food and the friendliest service? One of the Big Apple's own, the author of the Waiter Rant blog, recommends his favourite diners&lt;/p&gt;&lt;p&gt;See the whole article on &lt;a href=&quot;http://www.guardian.co.uk/travel/2008/nov/06/newyork-restaurants-waiters-guide-bars&quot;&gt;the Guardian&lt;/a&gt;&lt;/p&gt;
+            </description>
+            <Point>
+              <coordinates>40.75605,-73.98695,0</coordinates>
+            </Point>
+          </Placemark><Placemark>
+            <name>Ethical travel: staying with local families in Thailand</name>
+            <description>
+              &lt;p&gt;&lt;strong&gt;Andrew Spooner&lt;/strong&gt; experiences a refreshing alternative to Thailand's busy tourist resorts - staying with the locals&lt;/p&gt;&lt;p&gt;See the whole article on &lt;a href=&quot;http://www.guardian.co.uk/travel/2008/nov/11/thailand-ethical-holidays-homestay&quot;&gt;the Guardian&lt;/a&gt;&lt;/p&gt;
+            </description>
+            <Point>
+              <coordinates>8.13801,98.54601,0</coordinates>
+            </Point>
+          </Placemark>
+    </kml>  
+  
